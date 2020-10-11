@@ -11,3 +11,4 @@ dependencies:
     - thinc
     - pulp
     - torch
+    - gym
